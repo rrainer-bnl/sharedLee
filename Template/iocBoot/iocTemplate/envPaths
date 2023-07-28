@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","iocTemplate")
+epicsEnvSet("TOP","/epics/iocs/Template")
+epicsEnvSet("EPICS_BASE","/usr/lib/epics")

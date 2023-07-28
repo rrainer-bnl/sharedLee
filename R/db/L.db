@@ -1,0 +1,6 @@
+record(ao, "$(user):uniqueAO") {
+  field(VAL , "1.0")
+  field(DRVL, "0.0")
+  field(DRVH, "359")
+  field(PINI, "YES")
+}
